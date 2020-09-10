@@ -1,4 +1,5 @@
 Track the number of reported cases of COVID-19 around the globe.
+Check the live demo here ---> https://coronavirus-tracking-dashboard.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
