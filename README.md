@@ -1,4 +1,4 @@
-Track the number of reported cases of COVID-19 around the globe.
+Track number of reported, recovered cases and deaths caused by COVID-19 around the globe.
 
 Check the live demo here ---> https://coronavirus-tracking-dashboard.netlify.app/
 
