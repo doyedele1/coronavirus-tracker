@@ -1,6 +1,4 @@
-Track number of reported, recovered cases and deaths caused by COVID-19 around the globe.
-
-Check the live demo here ---> https://coronavirus-tracking-dashboard.netlify.app/
+_Track number of reported, recovered cases and deaths caused by COVID-19 around the globe._
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
