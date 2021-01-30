@@ -1,5 +1,7 @@
 _Track number of reported, recovered cases and deaths caused by COVID-19 around the globe._
 
+[Live Site on Netlify]()
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
