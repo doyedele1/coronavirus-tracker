@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(250, 250,250);
+  background-color: #00d0ff12;
+  color:#000;
 }
   
 .container {
@@ -30,10 +31,10 @@ body {
   }
 }
 
-.footer {
+/* .footer {
       font-style: normal;
-      font-size: 15px;
+      font-size: 1.5em;
       text-align: center;
       color: #8B78E6;
-      padding: 50px;
-}
+      margin-top: 20px;
+} */

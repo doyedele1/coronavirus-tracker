@@ -1,24 +1,19 @@
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     margin: 50px 0;
 }
   
 .card {
   margin: 0 2% !important;
+  background: linear-gradient(to right, rgb(232, 203, 192), rgb(99, 111, 164));
+  border-radius: 30px !important;
 }
 
-.infected {
-  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+.heading {
+  color: #000 !important; 
 }
 
-.recovered{
-  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
-}
-
-.deaths{
-  border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+.infected, .recovered, .deaths {
+  border: 5px solid #204051;
 }
 
 @media only screen and (max-width: 770px) {
